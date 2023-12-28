@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    /* border: 1px solid black; */
+}
+
+.nav{
+    /* border: 2px solid green; */
+    width: 21rem;
+}
+
+.content{
+    flex: 1;
+}
