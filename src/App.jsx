@@ -6,7 +6,7 @@ import Explore from './pages/Explore'
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/instagram-clone/',
     element: <RootLayout />,
     children: [
       {
