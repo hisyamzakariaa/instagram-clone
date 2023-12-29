@@ -55,7 +55,7 @@ const ICON = [
 function SideBar(){
     return(
         <aside>
-            <h2>Hisyamgram</h2>
+            <h2>Instasyam</h2>
             <div className={classes.button_container}>
             {ICON.map(element => (
             <IconButton 
