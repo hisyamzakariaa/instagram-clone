@@ -18,7 +18,7 @@ const ICON = [
         id: 4,
         className:'bi bi-compass',
         caption: 'Explore',
-        path: '/explore'
+        path: 'explore'
     },
     {
         id: 5,
