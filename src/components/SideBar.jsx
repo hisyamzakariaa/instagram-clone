@@ -6,7 +6,7 @@ const ICON = [
         id: 2,
         className:'bi bi-house',
         caption: 'Home',
-        path: '/'
+        path: '/instagram-clone/'
     },
     {
         id: 3,
